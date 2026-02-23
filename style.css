@@ -1,0 +1,293 @@
+body {
+    margin: 0%;
+
+}
+
+header {
+    background-color: rgba(248, 74, 10, 0.95);
+    height: 100%;
+
+}
+
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.logo {
+    width: 36%;
+    text-align: center;
+
+}
+
+.logo img {
+    padding-right: 90px;
+    padding: 35px;
+    width: 230px;
+
+}
+
+header h5 {
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing: -0.6px;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 55px 0px 30px 30px;
+    color: white;
+
+}
+
+
+nav {
+    padding-top: 38px;
+    padding-left: 185px;
+    text-align: end;
+
+}
+
+nav button {
+    height: 55px;
+    border: none;
+}
+
+nav h6 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 700;
+    letter-spacing: -0.6px;
+}
+
+.banner img {
+    height: 580px !important;
+    width: 230px !important;
+    padding-top: 125px;
+    padding-left: 0%;
+    position: absolute;
+    left: 0;
+    top: 0;
+
+}
+
+.banners img {
+    height: 600px !important;
+    width: 280px !important;
+    padding-top: 160px;
+    padding-right: 0%;
+    position: absolute;
+    right: 0;
+    top: 0;
+
+}
+
+.main h1 {
+    width: 60%;
+    color: white;
+    font-family: "Lexend Deca", sans-serif;
+    font-style: normal;
+    font-size: 48px;
+    font-weight: 650;
+    text-align: center;
+    padding-top: 55px;
+    padding-bottom: 25px;
+    margin: 0px auto;
+    padding-left: 40px;
+    letter-spacing: -0.3px;
+    line-height: 56px;
+
+}
+
+.search {
+    padding-bottom: 80px;
+    padding-right: 60px;
+    width: 40%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.search input {
+    font-family: "Lexend Deca", sans-serif;
+    font-style: normal;
+    font-weight: 520;
+    width: 380px;
+    height: 54px;
+    padding-left: 20px;
+}
+
+.boxes {
+    width: 98%;
+    height: auto;
+}
+
+.boxes img {
+    margin: 0px 0px;
+    width: 32%;
+    height: 342px;
+    padding-left: 80px;
+    padding-right: 35px;
+
+}
+
+.items {
+    height: 50%;
+}
+
+.items img {
+    margin: 0%;
+    margin-left: 40px;
+    width: 160px;
+    padding-top: 125px;
+
+}
+
+.items1 {
+    height: 28vh;
+}
+
+
+
+.items1 img {
+    padding-top: 10px;
+    padding-right: 15px;
+    margin-left: 42px;
+    width: 160px;
+
+}
+
+.swiggy {
+    height: 50vh;
+}
+
+.swiggy h1 {
+    margin-left: 60px;
+    padding-top: 60px;
+    padding-bottom: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing: -0.6px;
+    line-height: 56px;
+    font-weight: 650;
+    font-style: normal;
+    font-size: 26px;
+}
+
+.swiggy img {
+    width: 160px;
+    margin: 0%;
+    padding: 0%;
+    margin-left: 70px;
+
+}
+
+.headings {
+    height: 32vh;
+}
+
+.order {
+    height: 32vh;
+    text-align: center;
+}
+
+.order button {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing: -0.2px;
+    font-weight: 550;
+    width: 160px;
+    height: 50px;
+    border: none;
+
+}
+
+.LAST {
+    width: 100%;
+    height: 50vh;
+    padding: 50px;
+    display: flex;
+
+
+}
+
+.last {
+    width: 25%;
+    padding-top: 25px;
+    margin-left: 3%;
+    margin-right: 3%;
+
+
+}
+
+.last h3 {
+    font-size: 18px;
+    padding-bottom: 8px;
+    font-family: "Kanit", sans-serif;
+    font-weight: 600;
+    letter-spacing: -0.8px;
+}
+
+.last p {
+
+    font-weight: bold, lighter;
+    letter-spacing: -0.6px;
+}
+
+.ends {
+    padding: 80px;
+    height: 180px;
+    width: 100%;
+    display: flex;
+
+}
+
+.end h2 {
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    margin: 15px;
+    padding-left: 95px;
+    letter-spacing: -1.1px;
+    padding-right: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .headings h2 {
+    font-size:20px ;
+    margin-left: 70px;
+    font-family: "Kanit", sans-serif;
+    font-weight: bold;
+    letter-spacing: -0.9px;
+    line-height: 56px;
+
+} */
